@@ -8,4 +8,12 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Combine multiple sources of information to enhance the predictive capabilities of models.
 + Pose and solve design optimization problems under uncertainty involving expensive computer simulations.
 
+Installation
+------------
+
+To run the examples you need:
++ [Anaconda](https://www.continuum.io/downloads) from Continuum Analytics.
+
+To view the slides you need:
++ [RISE](https://github.com/damianavila/RISE.git)
 
