@@ -8,12 +8,25 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Combine multiple sources of information to enhance the predictive capabilities of models.
 + Pose and solve design optimization problems under uncertainty involving expensive computer simulations.
 
-Installation
-------------
+## Installation
 
-To run the examples you need:
-+ [Anaconda](https://www.continuum.io/downloads) from Continuum Analytics.
++ [Anaconda](https://www.continuum.io/downloads) from Continuum Analytics, is absolutely essential to group the installation of many packages.
 
-To view the slides you need:
-+ [RISE](https://github.com/damianavila/RISE.git)
++ [Jupyter Notebook Extensions](https://github.com/ipython-contrib/IPython-notebook-extensions)
+is required to properly display latex in the document (bibliography and equation numbers).
 
++ Essential UQ software developed by the [Predictive Science Laboratory](http://www.predictivesciencelab.org):
+    
+    + [py-orthpol](https://github.com/PredictiveScienceLab/py-orthpol) for generating orthogonal polynomials with respect to arbitrary probability measures. Requires FORTRAN compiler.
+    
+    + [py-design](https://github.com/PredictiveScienceLab/py-design) for generating designs for computer codes. Requires FORTRAN compiler.
+
++ [RISE](https://github.com/damianavila/RISE.git) is required only if you want to view the presentation as slides.
+
+## Lectures
+
++ [Lecture 1 - Introduction to Uncertainty Quantification](lec_01.ipynb)
+
++ [Lecture 2 - Introduction to Probability Theory](lec_02.ipynb)
+
++ [Lecture 3 - Probability Distributions](lec_03.ipynb)
