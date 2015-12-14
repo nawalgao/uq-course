@@ -1,5 +1,11 @@
 # Introduction to Uncertainty Quantification
 
+This version of the course is being taught at Purdue University during Spring 2016.
+The code for the course is ME 59700.
+The instructors are Prof. [Ilias Bilionis](http://www.predictivesciencelab.org/people.html) and
+Prof. [Guang Lin](https://www.math.purdue.edu/~lin491/).
+The class meets every Tuesday and Thursday 1:30pm-2:45pm at ME 3021.
+
 The goal of this course is to introduce the fundamentals of uncertainty quantification to advanced undergraduates or graduate engineering and science students with research interests in the field of predictive modeling. Upon completion of this course the students should be able to:
 
 + Represent mathematically the uncertainty in the parameters of physical models.
