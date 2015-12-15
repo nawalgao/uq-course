@@ -22,7 +22,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Lectures
 
-+ [Lecture 1 - Introduction to Uncertainty Quantification](lectures/lec_01.html) on 01/12/2016.
++ [Lecture 1 - Introduction to Uncertainty Quantification](lectures/lec_01.ipynb) on 01/12/2016.
 
 + [Lecture 2 - Probability Theory](lectures/lec_02.ipynb) on 01/14/2016.
 
