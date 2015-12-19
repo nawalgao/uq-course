@@ -98,7 +98,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + [Homework 6](hw/hw_06.ipynb) due on 04/12/2016.
 
 
-## Installation of Required Software for Viewing the Notebookds
+## Installation of Required Software for Viewing the Notebookes
+
+### Microsoft Windows
+
+### Apples OS X
+
+### Linux
 
 + [Anaconda](https://www.continuum.io/downloads) from Continuum Analytics, is absolutely essential to group the installation of many packages.
 
