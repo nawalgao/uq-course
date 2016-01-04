@@ -28,25 +28,25 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Lecture 3 - Probability Distributions](lectures/lec_03.ipynb) on 01/19/2016.
 
-+ [Lecture 4 - Bayesian Parameter Estimation, Hypothesis Testing, and Model Selection](lectures/lec_04.ipynb) on 01/21/2016.
++ [Lecture 4 - Uncertainty Propagation using Sampling Methods: Monte Carlo](lectures/lec_04.ipynb) on 01/21/2016.
 
-+ [Lecture 5 - Uncertainty Propagation using Sampling Methods: Monte Carlo](lectures/lec_05.ipynb) on 01/26/2016.
++ [Lecture 5 - Uncertainty Propagation using Sampling Methods: Latin-hypercube designs](lectures/lec_05.ipynb) on 01/26/2016.
 
-+ [Lecture 6 - Uncertainty Propagation using Sampling Methods: Latin-hypercube designs](lectures/lec_06.ipynb) on 01/28/2016.
++ [Lecture 6 - Uncertainty Propagation using Polynomial Chaos I](lectures/lec_06.ipynb) on 01/28/2016.
 
-+ [Lecture 7 - Representation of Prior Uncertainty: The Maximum Entropy Principle](lectures/lec_07.ipynb) on 02/02/2016.
++ [Lecture 7 - Uncertainty Propagation using Polynomial Chaos II](lectures/lec_07.ipynb) on 02/02/2016.
 
-+ [Lecture 8 - Representation of Prior Uncertainty](lectures/lec_08.ipynb) on 02/04/2016.
++ [Lecture 8 - Maximum Likelihood, Bayesian Parameter Estimation, Bayesian Linear Regression](lectures/lec_08.ipynb) on 02/04/2016.
 
-+ [Lecture 9](lectures/lec_09.ipynb) on 02/09/2016.
++ [Lecture 9 - Priors of Function Spaces: Gaussian Processes](lectures/lec_09.ipynb) on 02/09/2016.
 
-+ [Lecture 10](lectures/lec_10.ipynb) on 02/11/2016.
++ [Lecture 10 - Gaussian Process Regression](lectures/lec_10.ipynb) on 02/11/2016.
 
-+ [Lecture 11](lectures/lec_11.ipynb) on 02/16/2016.
++ [Lecture 11 - Representation of Prior Uncertainty - The Maximum Entropy Principle](lectures/lec_11.ipynb) on 02/16/2016.
 
-+ [Lecture 12](lectures/lec_12.ipynb) on 02/18/2016.
++ [Lecture 12 - Dimensionality Reduction: Principal Component Analysis](lectures/lec_12.ipynb) on 02/18/2016.
 
-+ [Lecture 13](lectures/lec_13.ipynb) on 02/23/2016.
++ [Lecture 13 - Dimensionality Reduction of Random Fields: The Karhunen-Loeve Expansion](lectures/lec_13.ipynb) on 02/23/2016.
 
 + [Lecture 14](lectures/lec_14.ipynb) on 02/25/2016.
 
